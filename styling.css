@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&family=Ubuntu&display=swap');
+body{
+    background: whitesmoke;
+}
+.h{
+    font-family: 'Ubuntu', sans-serif;;
+    font-weight: bold;
+}
+body{
+    background-image: url();
+}
+.hey{
+    width:1380px;
+    height:767px;
+}
+.text{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.color-text{
+    color: orangered;
+}
+.navbar ul li a:hover{
+    color: orangered;
+    
+}
+.sr-only:hover{
+    color:black;
+
+}
+.card-img-top{
+    width:255px;
+    height:250px;
+}
+.arrange-card{
+    position: absolute;
+    left:40%;
+    
+}
+.card-body{
+    position: absolute;
+    left:35%;
+    top:50%;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+
+
+}
+.left-side{
+    position:relative;
+    width:250px;
+    height:550px;
+    left:-480px;
+}
+.pic{
+    width:500px;
+    height:260px;
+    position:relative;
+    right:550px;
+    bottom:145px;
+    
+}
